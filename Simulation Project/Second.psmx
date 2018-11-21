@@ -1,0 +1,10 @@
+<Meta name="Second">
+  <messagelist />
+  <List classid="Settings" />
+  <ViewContext>
+    <Window defn="Second:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="6" scrollx="0" scrolly="0" />
+  </List>
+</Meta>

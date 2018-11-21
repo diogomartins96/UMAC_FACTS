@@ -1,0 +1,11 @@
+<Meta name="First">
+  <messagelist />
+  <List classid="Settings" />
+  <ViewContext>
+    <Window defn="First:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="3" scrollx="0" scrolly="0" />
+  </List>
+  <Catalog count="0" />
+</Meta>
