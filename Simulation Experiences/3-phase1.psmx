@@ -1,0 +1,12 @@
+<Meta name="3-phase1">
+  <messagelist>
+    <message status="normal" label="information" scope="3_phase1" groupid="100000"><![CDATA[Project namespace '3-phase1' has been renamed to '3_phase1']]></message>
+  </messagelist>
+  <Catalog count="0" />
+  <ViewContext>
+    <Window defn="3_phase1:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="4" scrollx="0" scrolly="0" />
+  </List>
+</Meta>

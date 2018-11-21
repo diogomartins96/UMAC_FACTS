@@ -1,0 +1,10 @@
+<Meta name="1">
+  <messagelist />
+  <Catalog count="0" />
+  <ViewContext>
+    <Window defn="1:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="6" scrollx="0" scrolly="0" />
+  </List>
+</Meta>
